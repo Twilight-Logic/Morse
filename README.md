@@ -10,9 +10,7 @@ custom characters can be used.
 
 The following commands are available:
 
--d	decode the following morse sequence to text
-
-a sequence of morse code characters consisting of dots (dits) '.' and dashes '-' (dahs) must be supplied. Each letter and word must be separated by a delimeter. The default delimeters are '/' for letter and a space for each word. Custom characters can be specified using the -s command.
+-d decode the following morse sequence to text. A sequence of morse code characters consisting of dots (dits) '.' and dashes '-' (dahs) must be supplied. Each letter and word must be separated by a delimeter. The default delimeters are '/' for letter and a space for each word. Custom characters can be specified using the -s command.
 
 -e	encode the follwoing sequence of ASCII text into morse code
 
