@@ -11,7 +11,7 @@ custom characters can be used.
 The following commands are available:
 
 <DL>
-<DT>-d</DT>
+<DT>-d decode the following morse sequence</DT>
 <DD>decode the following morse sequence to text. A sequence of morse code characters consisting of dots (dits) '.' and dashes '-' (dahs) must be supplied. Each letter and word must be separated by a delimeter. The default delimeters are '/' for letter and a space for each word. Custom characters can be specified using the -s command.</DD>
 </DL>
 
