@@ -41,6 +41,7 @@ The following commands are available:
 
 Examples:
 
+<PRE>
 morse -e "This is morse!"
 
 morse -d "-/..../../... ../... --/---/.-./..././-.-.--"
@@ -50,6 +51,6 @@ morse -s " /" -d"- .... .. .../.. .../-- --- .-. ... . -.-.--"
 morse -m example.txt -o /encoded.morse
 
 morse -t example.morse -o /decoded.txt
-
+</PRE>
 
 
