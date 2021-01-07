@@ -23,6 +23,10 @@ The following commands are available:
 <DD>Decode the specified file containing morse code into ASCII text. A name of a file containing Morse code needs to be supplied. The file must contain Morse code characters consisting of dots (dits) '.' and dashes '-' (dahs). Each letter and word must be separated by a delimeter. The default delimeters are '/' for letter and a space for each word group. Custom characters can be specified using the -s command.</DD>
 </DL>
 
+
+The source file can be compiled by simply running 'make' in the source directory.
+
+
 Examples:
 
 <PRE>
